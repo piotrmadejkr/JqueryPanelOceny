@@ -1,0 +1,25 @@
+.kolko, najechane {
+    border: 2px black solid;
+    border-radius: 45%;
+    width: 2em;
+    height: 2em;
+    margin: 0px;
+    padding: .1em;
+    display: inline-block;
+}
+.kolko:hover{
+    background-color: yellow;
+}
+/* .kolko:chosen{
+    background-color: green;
+} */
+.najechane{
+    background-color: yellow;
+}
+.wybrane{
+    background-color: green;
+}
+
+/* body{
+    background-color: red;
+} */
